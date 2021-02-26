@@ -4,7 +4,7 @@
 **下载[v1.0]**
 -
 - 地址1：[Github](https://github.com/tp1415926535/DesktopPoem/raw/main/%E8%AF%97%E7%AC%BAv1.0.rar)
-- 地址2：[蓝奏云](https://wws.lanzous.com/i8rCbm7muvc)   
+- 地址2：[蓝奏云](https://wws.lanzous.com/iJaxNm805oj)   
 
 **功能**
 -
