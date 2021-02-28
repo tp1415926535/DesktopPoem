@@ -1,10 +1,10 @@
 # 诗笺（DesktopPoem）
 　　挂在屏幕上的诗句。Windows系统。
 
-**下载[v1.0]**
+**下载[v1.1]**
 -
-- 地址1：[Github](https://github.com/tp1415926535/DesktopPoem/raw/main/%E8%AF%97%E7%AC%BAv1.0.rar)
-- 地址2：[蓝奏云](https://wws.lanzous.com/iYkwVm97t2j)   
+- 地址1：[Github](https://github.com/tp1415926535/DesktopPoem/raw/main/%E8%AF%97%E7%AC%BAv1.1.rar)
+- 地址2：[蓝奏云](https://wws.lanzous.com/ipdQ4ma58mh)   
 
 **功能**
 -
@@ -39,4 +39,5 @@
 
 **历史版本**
 -
+v1.1 2021/02/28 新增本地诗词库选项；新增恢复默认设置功能；调整设置界面。
 v1.0 2021/02/26 基本功能全部实现。
