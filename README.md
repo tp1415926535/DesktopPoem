@@ -34,7 +34,7 @@
 **关于**
 -
 - 开发人员：纵码过河山  
-- 诗词库源自：[今日诗词API](https://github.com/xenv/gushici)
+- 网络诗词库源自：[今日诗词API](https://github.com/xenv/gushici)
 - 本地诗词库源自：[chinese-gushiwen](https://github.com/caoxingyu/chinese-gushiwen)
 
 **历史版本**
