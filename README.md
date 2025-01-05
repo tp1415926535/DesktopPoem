@@ -2,10 +2,11 @@
 　　挂在屏幕上的诗句。Windows系统。     
 　　若图片加载失败，可以查看[产品详情页](https://tp1415926535.gitee.io/shijian_detail.html)。
 
-**下载[v1.4]**
+**下载[v2.0.0.0]**
 -
-- 地址1：[Github](https://github.com/tp1415926535/DesktopPoem/raw/main/%E8%AF%97%E7%AC%BAv1.4.rar)
-- 地址2：[蓝奏云](https://wwp.lanzouw.com/i6Qfv024qd9a)   
+- 地址1：[Github-依赖.net6.0](https://github.com/tp1415926535/DesktopPoem/blob/main/%E8%AF%97%E7%AC%BAv2.0.0.0-%E4%BE%9D%E8%B5%96.NET6.0.zip)
+- 地址2：[蓝奏云-独立](https://wwvr.lanzn.com/iN04S2k1007g)   
+- 地址3：[蓝奏云-依赖.net6.0](https://wwvr.lanzn.com/iwYNM2k0zzbe)   
 
 **功能**
 -
@@ -22,7 +23,7 @@
 - 背景：颜色、质感、自动隐藏
 - 切换：是否自动、间隔时长
 - 桌面图标：显示/隐藏
-- 开机自启（需要管理员权限）
+- 开机自启
 
 
 **效果截图**
@@ -40,6 +41,7 @@
 
 **历史版本**
 -
+- v2.0.0.0 2025/1/5 重构代码，支持即时调整颜色和字体，窗体宽度会自动变化。框架升级到.NET6.0
 - v1.4 2022/03/27 优化配置文件错误修复流程，增加配置自动备份功能。    
 - v1.3 2021/10/17 修复配置文件读取错误导致闪退的问题。    
 - v1.2 2021/05/19 修复被Windows查杀误报的问题。    
